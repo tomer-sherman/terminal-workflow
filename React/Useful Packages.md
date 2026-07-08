@@ -18,7 +18,7 @@ npm install axios
 
 # 📝 Form Management
 npm install react-hook-form
-npm install @types/react-hook-form -D
+
 
 # 🔔 Notifications / Toasts
 npm install izitoast
