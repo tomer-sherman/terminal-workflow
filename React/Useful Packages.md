@@ -27,3 +27,5 @@ npm install izitoast
 npm install @reduxjs/toolkit
 npm install react-redux
 npm install @types/react-redux -D
+
+ npm install error-extractor
