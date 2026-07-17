@@ -28,6 +28,7 @@ npm install @reduxjs/toolkit
 npm install react-redux
 npm install @types/react-redux -D
 
+<<<<<<< HEAD
 
 ### 🔐 Authentication
 
@@ -51,3 +52,6 @@ npm install @mui/material @emotion/react @emotion/styled
 
 
 
+=======
+ npm install error-extractor
+>>>>>>> 009a08bc5c78da887f94180912e309cbd0e2a1a0
