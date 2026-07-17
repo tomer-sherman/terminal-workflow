@@ -27,3 +27,27 @@ npm install izitoast
 npm install @reduxjs/toolkit
 npm install react-redux
 npm install @types/react-redux -D
+
+
+### 🔐 Authentication
+
+**JWT Decoder**
+
+Bash
+
+```
+npm install jwt-decode
+```
+
+### 🎨 UI Framework
+
+**Material UI Core & Styling Engine**
+
+Bash
+
+```
+npm install @mui/material @emotion/react @emotion/styled
+```
+
+
+
